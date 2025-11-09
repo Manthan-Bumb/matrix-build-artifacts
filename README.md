@@ -1,3 +1,3 @@
 # matrix-build-artifacts
 
-Contact: manthan.bumb@example.com
+Contact: 24f3001532@ds.study.iitm.ac.in
